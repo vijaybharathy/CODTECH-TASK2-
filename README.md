@@ -23,9 +23,9 @@ Create a web or mobile application to help users manage theirtasks and projects 
 ### **Technologies Used:**
 
 - **HTML**: For creating the structure of the page, including the task input field, buttons, and task list.
-- 
+ 
 - **CSS**: For styling the page, providing a visually appealing interface with modern design elements such as gradients, buttons, and list styling.
-- 
+  
 - **JavaScript**: For handling dynamic interactions, such as adding tasks, marking them as completed, deleting them, and saving tasks to localStorage.
 
 ### **Key Features:**
