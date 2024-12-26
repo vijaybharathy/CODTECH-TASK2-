@@ -1,5 +1,23 @@
 # CODTECH-TASK2-
 
+NAME:  V VIJAYBHARATHY 
+
+DOMAIN: SOFTWARE DEVELOPMENT 
+
+COMPANY: CODTECH IT SOLUTIONS 
+
+ID:CT12DS3059
+
+DURATION:12 DEC 2024 TO 12 FEB 2025
+
+**OVERVIEW OF THE PROJECT**
+
+PROJECT:TASK MANAGEMENT TOOL
+
+**OBJECTIVE**
+
+Create a web or mobile application to help users manage theirtasks and projects efficiently, facilitating better organizationand productivity.
+
 ---
 
 ### **Technologies Used:**
