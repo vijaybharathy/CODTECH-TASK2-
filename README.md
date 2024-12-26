@@ -71,6 +71,4 @@ Create a web or mobile application to help users manage theirtasks and projects 
 
 This project is a simple task manager app that allows users to manage tasks by adding, marking as completed, and deleting them. It uses **HTML** for the structure, **CSS** for styling, and **JavaScript** for dynamic interactivity, with localStorage functionality for task persistence. The app provides a basic but effective task management solution with an easy-to-use interface.
 
----
 
-This structure breaks down the project features and gives a clear explanation of how it works!
