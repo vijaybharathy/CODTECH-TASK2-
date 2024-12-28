@@ -13,6 +13,8 @@ DURATION:12 DEC 2024 TO 12 FEB 2025
 **OVERVIEW OF THE PROJECT**
 
 PROJECT:TASK MANAGEMENT TOOL
+![Screenshot_2024_1228_165412](https://github.com/user-attachments/assets/c3d39bfd-a9d7-4887-befe-38e5905125de)
+
 
 
 
