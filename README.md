@@ -14,6 +14,8 @@ DURATION:12 DEC 2024 TO 12 FEB 2025
 
 PROJECT:TASK MANAGEMENT TOOL
 
+
+
 **OBJECTIVE**
 
 Create a web or mobile application to help users manage theirtasks and projects efficiently, facilitating better organizationand productivity.
